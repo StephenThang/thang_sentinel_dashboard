@@ -6,6 +6,8 @@ A simulated enterprise Security Information & Event Management (SIEM) platform b
 
 ## Live Demo
 **[StephenThang.github.io/thang_sentinel_dashboard](https://StephenThang.github.io/thang_sentinel_dashboard)**
+<img width="1077" height="745" alt="image" src="https://github.com/user-attachments/assets/4c1a7acc-c508-4db0-a1b4-16f22e2f9f0f" />
+
 
 ---
 
