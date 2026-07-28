@@ -5,7 +5,7 @@ A simulated enterprise Security Information & Event Management (SIEM) platform b
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK%20v15-red?style=flat) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
 ## Live Demo
-**[sentinelcorp.github.io/thang-sentinel](https://StephenThang.github.io/thang-sentinel)**
+**[StephenThang.github.io/thang_sentinel_dashboard](https://StephenThang.github.io/thang_sentinel_dashboard)**
 
 ---
 
@@ -52,8 +52,8 @@ A simulated enterprise Security Information & Event Management (SIEM) platform b
 ## Run Locally
 
 ```bash
-git clone https://github.com/StephenThang/thang-sentinel.git
-cd thang-sentinel
+git clone https://github.com/StephenThang/thang_sentinel_dashboard.git
+cd thang_sentinel_dashboard
 npm install
 npm run dev
 ```
